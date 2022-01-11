@@ -1,0 +1,17 @@
+name: crystal-web-demo
+version: 0.1.0
+
+authors:
+  - Guilherme Bernal <guilherme@cubos.io>
+
+targets:
+  crystal-web-demo:
+    main: src/crystal-web-demo.cr
+
+crystal: 1.2.2
+
+dependencies:
+  web:
+    github: lbguilherme/crystal-web
+
+license: MIT

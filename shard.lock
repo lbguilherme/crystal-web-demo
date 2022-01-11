@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  web:
+    git: https://github.com/lbguilherme/crystal-web.git
+    version: 0.1.0+git.commit.e25c928ad4027f4ec1822eecf1abda6ba1957fd3
+
